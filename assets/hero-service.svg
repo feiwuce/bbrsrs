@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 720" role="img" aria-labelledby="title desc">
+  <title id="title">多地区账号服务示意图</title>
+  <desc id="desc">多地区服务卡片连接到手机确认界面</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef6ff"/>
+      <stop offset="1" stop-color="#e7fbf4"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#17314c" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="980" height="720" rx="10" fill="url(#bg)"/>
+  <circle cx="120" cy="112" r="12" fill="#246bfe" opacity=".7"/>
+  <circle cx="844" cy="126" r="15" fill="#f1a11f"/>
+  <circle cx="144" cy="594" r="10" fill="#25b78b"/>
+  <circle cx="826" cy="598" r="14" fill="#246bfe"/>
+  <path d="M312 208C392 226 458 274 538 296" fill="none" stroke="#246bfe" stroke-width="5" stroke-linecap="round"/>
+  <path d="M334 438C420 426 454 393 538 374" fill="none" stroke="#25b78b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M322 208l-20-22M322 208l-26 3M334 438l-24 12M334 438l7 25" fill="none" stroke="#246bfe" stroke-width="5" stroke-linecap="round"/>
+  <g filter="url(#shadow)">
+    <rect x="70" y="136" width="290" height="142" rx="16" fill="#fff"/>
+    <rect x="70" y="338" width="290" height="142" rx="16" fill="#fff"/>
+    <rect x="536" y="82" width="298" height="556" rx="48" fill="#17202a"/>
+  </g>
+  <rect x="558" y="111" width="254" height="498" rx="30" fill="#f7fbff"/>
+  <rect x="640" y="94" width="90" height="8" rx="4" fill="#4b5968"/>
+  <rect x="588" y="154" width="148" height="16" rx="8" fill="#d5e3f3"/>
+  <rect x="588" y="188" width="194" height="54" rx="12" fill="#eaf1ff"/>
+  <rect x="606" y="205" width="122" height="13" rx="6" fill="#b9cbed"/>
+  <rect x="588" y="262" width="194" height="54" rx="12" fill="#f1f5f8"/>
+  <rect x="606" y="279" width="150" height="13" rx="6" fill="#d2dce8"/>
+  <rect x="588" y="336" width="194" height="128" rx="16" fill="#e4f7ef"/>
+  <circle cx="685" cy="379" r="27" fill="#25b78b"/>
+  <path d="M672 379l10 10 19-23" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="632" y="430" width="106" height="12" rx="6" fill="#83cdb6"/>
+  <circle cx="685" cy="572" r="9" fill="#17202a"/>
+  <circle cx="118" cy="208" r="26" fill="#246bfe"/>
+  <rect x="162" y="177" width="138" height="16" rx="8" fill="#17202a"/>
+  <rect x="162" y="207" width="160" height="12" rx="6" fill="#758292"/>
+  <rect x="162" y="233" width="112" height="12" rx="6" fill="#c4cfda"/>
+  <circle cx="118" cy="410" r="26" fill="#f1a11f"/>
+  <rect x="162" y="379" width="168" height="16" rx="8" fill="#17202a"/>
+  <rect x="162" y="409" width="143" height="12" rx="6" fill="#758292"/>
+  <rect x="162" y="435" width="98" height="12" rx="6" fill="#246bfe"/>
+  <rect x="92" y="546" width="185" height="24" rx="12" fill="#17202a"/>
+  <rect x="112" y="553" width="88" height="10" rx="5" fill="#fff" opacity=".88"/>
+  <circle cx="422" cy="136" r="11" fill="#25b78b"/>
+  <circle cx="438" cy="544" r="10" fill="#246bfe"/>
+</svg>
