@@ -2,7 +2,7 @@
   "use strict";
 
   // Replace this one value when the real purchasing page is ready.
-  const PURCHASE_URL = "https://example.com/";
+  const PURCHASE_URL = "https://www.wcfaka.com/links/9208B80D";
   const purchaseLinks = document.querySelectorAll("[data-purchase-link]");
 
   purchaseLinks.forEach((link) => {
